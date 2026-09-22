@@ -207,4 +207,4 @@ FreeDOS is offered as a complete free version with all features and updates incl
 Explore the world of classic computing with FreeDOS! Download now and enjoy a full version of this nostalgic operating system.
 
 ---
-**Last updated:** 2026-09-21 23:53:17 UTC
+**Last updated:** 2026-09-22 03:49:16 UTC
